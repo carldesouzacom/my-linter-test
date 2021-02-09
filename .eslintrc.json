@@ -14,8 +14,6 @@
 
   "rules": {
     "no-var": "warn",
-    "semi": ["error", "always"],
-    "semi-spacing": ["error", { "before": false, "after": true }],
-    "promise/param-names": "error"
+    "semi": ["error", "always"]
   }
 }
