@@ -1,4 +1,4 @@
-function Hello () {
+function HelloWorld () {
   console.log('Hello World');
 }
-Hello();
+HelloWorld();
